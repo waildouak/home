@@ -1,7 +1,7 @@
 .demo-style-switch {
   position: fixed;
   z-index: 9999;
-  top: 100px;
+  top: 5px;
   left: -220px;
   background: #FFFFFF;
 }
