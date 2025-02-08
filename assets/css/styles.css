@@ -1113,6 +1113,12 @@ body {
 .mh-single-project-slide-by-side {
   margin: 0 auto; }
 
+
+@media (min-width: 769px) {
+  .mh-home {
+    zoom: 0.8;
+  }
+}
 /*
     ==============
        ABOUT
